@@ -2,6 +2,18 @@
 body {
     color: #0E0E0E;
     background-color:#f4d9d6;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Patua One', cursive;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Mooli' , sans-serif;
+    color: #D45953
 }
  img {width: 500px;}
+.list {
+    font-family: 'Mooli' , sans-serif;
+    color:#D45953;
+}
+
